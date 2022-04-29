@@ -1,0 +1,7 @@
+// test builder.
+//        				.setName("boltzbot") //Set the nick of the bot. CHANGE IN YOUR CODE
+//                        .addServer("irc.freenode.net") //Join the freenode network
+//                        .addAutoJoinChannel("#pircbotx") //Join the official #pircbotx channel
+//                        .addListener(new TwitchListener()) //Add our listener that will be called on Events
+//                        .buildConfiguration();
+        				// twitch bot builder - bot.connect("irc.chat.twitch.tv", 6667, "oauth:4a6np3sbfhkh2o48txibein9evzfqm");
